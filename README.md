@@ -5,7 +5,12 @@
 - 🔗 [Blog / Homepage](https://hwater27.github.io/)
 
 ## Interests
-Science for human learning — Computational Neuroscience, Learning & Memory, AI Interpretability, Complexity Science, Educational Assessment
+*"Science for human learning"*
+- Computational Neuroscience
+- Learning & Memory
+- AI Interpretability
+- Complexity Science
+- Educational Assessment
 
 ## Background
 - SNU Physics Education (2020 – 2027 expected)
