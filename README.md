@@ -15,7 +15,7 @@
 ## Background
 - SNU Physics Education (2020 – 2027 expected)
 - CERN-KPS Summer Student (2024)
-- Undergrad intern at DataScience Lab., Dept. of Physics Education (2023 - current)
+- Undergrad intern at DataScience Lab., Dept. of Physics Education (2023 – current)
 
 ## Contact
 
